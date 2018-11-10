@@ -4,6 +4,13 @@
 *.dll
 *.so
 *.dylib
+*
+
+# unignore with exteinsion
+!*.*
+
+# unignore all dirs
+!...
 
 # Test binary, build with `go test -c`
 *.test
